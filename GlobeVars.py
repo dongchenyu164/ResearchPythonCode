@@ -1,0 +1,1 @@
+Gripper = 0
